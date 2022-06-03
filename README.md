@@ -1,10 +1,4 @@
-# WordFlow Site
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/nathanpower/wordflow-site.svg)](https://greenkeeper.io/)
-[![Build Status](https://travis-ci.org/nathanpower/wordflow-site.svg?branch=master)](https://travis-ci.org/nathanpower/wordflow-site)
-
-A statically generated portfolio and blog site built with [react-static](https://github.com/nozzle/react-static) and [flexboxgrid-sass](https://github.com/hugeinc/flexboxgrid-sass)
-
+# GeckoCo Site
 
 ### Running locally
 ```
