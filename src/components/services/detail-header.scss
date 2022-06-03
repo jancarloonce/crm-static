@@ -1,0 +1,17 @@
+.detail-logo,
+.detail-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  font: 300 26px/1.55em 'Raleway', sans-serif;
+}
+
+.detail-logo {
+  padding: 35px 0 0px;
+  margin-bottom: 0;
+}
+
+.detail-heading {
+  padding-bottom: 30px;
+}

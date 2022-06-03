@@ -1,0 +1,28 @@
+@import '../../variables.scss';
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  height: 345px;
+  background-color: $black;
+}
+
+.header-hero {
+  height: 345px;
+  width: 500px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 480px) {
+  .header {
+    height: 250px;
+  }
+
+  .header-hero {
+    height: 250px;
+    width: 385px;
+  }
+}
